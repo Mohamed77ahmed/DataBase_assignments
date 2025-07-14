@@ -1,17 +1,21 @@
 # 📚 DataBase_assignments
 
-This repository is organized into multiple branches, each containing a separate part of database-related assignments.
+This repository is organized into separate branches, each one contains a specific part of the database learning path.
 
 ---
 
-## 🔗 Available Branches:
+## 🔗 Branches:
 
 - [📘 `database-design`](https://github.com/Mohamed77ahmed/DataBase_assignments/tree/database-design)  
   Contains:  
   - ERD diagrams  
-  - Relational mapping  
-  - Design documentation
+  - Relational Mapping documents
+
+- [💾 `database_Sqlserver`](https://github.com/Mohamed77ahmed/DataBase_assignments/tree/database_Sqlserver)  
+  Contains:  
+  - SQL Server assignments  
+  - SQL queries and practice scripts
 
 ---
 
-To access any branch, use the dropdown at the top-left or click one of the links above.
+Each branch is independent and contains focused content for easy navigation and versioning.
